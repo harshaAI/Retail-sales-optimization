@@ -8,8 +8,14 @@ Fyntra is the largest online clothing company in USA. It sells clothing online,b
 # Key issues 
 Clearly establish a correlation among the parameters supplied in data, help the company make the right decision 
 
-# Data volume 
-Approx 500 records –file FyntraCustomerData.csv 
+# Data 
+Approx 500 records –file FyntraCustomerData.csv
+
+Avg_Session_Length: Average session of in-store style advice sessions.
+Time_on_App: Average time spent on App in minutes
+Time_on_Website: Average time spent on Website in minutes
+Length_of_Membership: How many years the customer has been a member. 
+Yearly_Amount_Spent: The output parameter -- Amount Spend in thousand $ in a year
 
 # Business benefits
-Increase in profits as thefocus on the optimal sales channel will result into the higher top line and thehigher bottom line
+Increase in profits as the focus on the optimal sales channel will result into the higher top line and the higher bottom line
