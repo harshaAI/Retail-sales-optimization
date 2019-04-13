@@ -13,9 +13,13 @@ Clearly establish a correlation among the parameters supplied in data, help the 
 Approx 500 records –file FyntraCustomerData.csv
 
 Avg_Session_Length: Average session of in-store style advice sessions.
+
 Time_on_App: Average time spent on App in minutes
+
 Time_on_Website: Average time spent on Website in minutes
+
 Length_of_Membership: How many years the customer has been a member. 
+
 Yearly_Amount_Spent: The output parameter -- Amount Spend in thousand $ in a year
 
 # Business benefits
